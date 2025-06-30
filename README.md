@@ -33,7 +33,7 @@ The goal was to extract meaningful insights from healthcare data using SQL queri
    ```sql
    CREATE DATABASE Healthcare;
    USE Healthcare;
-```
+   ```
 
 ## 📂 Assumptions
 
